@@ -1,0 +1,1 @@
+// Remove this file as task history is now managed by the API
